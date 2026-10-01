@@ -1,0 +1,6 @@
+{
+  "name": "University Courses - Android Jetpack Compose App",
+  "description": "Modern Android University Courses application built with Kotlin and Jetpack Compose featuring Material 3, authentication, course catalog, detailed program info, and full source code guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
